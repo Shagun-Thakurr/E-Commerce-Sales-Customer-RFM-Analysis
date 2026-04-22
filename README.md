@@ -3,7 +3,7 @@
 
 
 
-<img width="1284" height="600" alt="Screenshot (502)" src="https://github.com/user-attachments/assets/d1054990-e180-4fb1-8f19-269cf10d3b6b" />
+<img width="1100" height="600" alt="Screenshot (502)" src="https://github.com/user-attachments/assets/d1054990-e180-4fb1-8f19-269cf10d3b6b" />
 
 
 
