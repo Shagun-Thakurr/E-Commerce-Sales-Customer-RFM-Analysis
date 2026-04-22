@@ -3,7 +3,8 @@
 
 
 
-<img width="1203" height="689" alt="ecommerce_sales_dashboard" src="https://github.com/user-attachments/assets/503f382e-7833-4a40-98ed-f07ef4d98579" />
+<img width="1284" height="600" alt="Screenshot (502)" src="https://github.com/user-attachments/assets/d1054990-e180-4fb1-8f19-269cf10d3b6b" />
+
 
 
 ## Project Overview
